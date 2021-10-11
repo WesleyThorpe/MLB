@@ -1,4 +1,10 @@
 # MLB
+
+The purpose of this assessment is to find the monetary value of the average of the 125 highest salaries from the past season. This will help us see where players stand and assist with reviewing players preparing for free agency and how to proceed.  This will help both the team and player decided the best course of action going forward in free agency.
+
+
+
+
 Get information off dataset link
     -find link that provides the usable data set an open to review the information inside
 
